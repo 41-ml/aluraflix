@@ -1,0 +1,39 @@
+body{
+    color:white;
+    background:black;
+}
+header{
+    border-bottom: solid 1px green;
+    padding:20px;
+}
+
+
+section{
+    background:#7d0ecc
+    padding-bottom:80px;
+    padding-top:80px;
+    display:flex;
+}
+img {
+    height: 200px;
+  }
+  .categoria-videos {
+    display: flex;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+  }section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* código omitido */
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
